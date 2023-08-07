@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://zzzzfly.github.io/about/index.html</loc>
-    
-    <lastmod>2023-08-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://zzzzfly.github.io/posts/undefined/</loc>
     
     <lastmod>2023-08-07</lastmod>
@@ -30,15 +21,6 @@
   
   <url>
     <loc>https://zzzzfly.github.io/tags/index.html</loc>
-    
-    <lastmod>2023-08-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://zzzzfly.github.io/categories/index.html</loc>
     
     <lastmod>2023-08-07</lastmod>
     
